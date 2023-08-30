@@ -6,6 +6,7 @@ while maintaining key information for users in various industries, such as acade
 
 Open AI Article Summarizer using React
 By Brandon Cook
+
 Overview
 The Open AI Article Summarizer is a user-friendly web application that leverages the power of artificial intelligence to condense lengthy text into concise, easily digestible summaries. Built using React, this app is designed for users across various industries, including academia, business, and journalism, to save time while maintaining the essence of the content.
 
